@@ -3,9 +3,9 @@ Scripts I use for DigitalOcean **use at your own risk!**
 
 On the off chance someone else comes across this, I thought I'd give an extra disclaimer/explanation in addition to what the BSD license
 # Intended behavior
-Have at most one droplet at any given time.
-Have at most one snapshot at any given time **(It will destroy ALL snapshots on the account before taking a new one).**
-Only deploy the 1gb droplet (currently the second cheapest one).
+* Have at most one droplet at any given time.
+* Have at most one snapshot at any given time **(It will destroy ALL snapshots on the account before taking a new one).**
+* Only deploy the 1gb droplet (currently the second cheapest one).
 
 And, of course, there may be undocumented behavior.
 
